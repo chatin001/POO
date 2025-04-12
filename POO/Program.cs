@@ -9,6 +9,7 @@
             Console.WriteLine(song1.PublicAlbum);
             Console.WriteLine(song1.PublicTitle);
 
+
     }
     }
 }
