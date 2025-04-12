@@ -8,7 +8,6 @@ namespace POO
 {
     public class Song
     {
-
         private string album;
         public string PublicAlbum 
         {
